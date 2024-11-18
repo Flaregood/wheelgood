@@ -21,8 +21,7 @@
     <line id="Linea_1" data-name="Linea 1" y2="138" transform="translate(960.5 49.5)" fill="none" stroke="#3e3e3e" stroke-width="2"/>
     <line id="Linea_2" data-name="Linea 2" x1="39.953" y2="108.771" transform="translate(771.547 45.5)" fill="none" stroke="#3e3e3e" stroke-width="2"/>
     <line id="Linea_3" data-name="Linea 3" y2="551" transform="translate(960 -363.5) rotate(40)" fill="none" stroke="#3e3e3e" stroke-width="2"/>
-    <line id="Linea_4" data-name="Linea 4" x2="35.953" y2="101.771" transform="translate(1112.5 52.5)" fill="none" stroke="#3e3e3e" stroke-width="2"/>
-    <line id="Linea_5" data-name="Linea 5" y1="551" transform="translate(1314.176 58.59) rotate(140)" fill="none" stroke="#3e3e3e" stroke-width="2"/>
+<line xmlns="http://www.w3.org/2000/svg" id="Linea_4" data-name="Linea 4" x2="39.953" y2="108.771" transform="translate(1112.5 44)" fill="none" stroke="#3e3e3e" stroke-width="2"/>    <line id="Linea_5" data-name="Linea 5" y1="551" transform="translate(1314.176 58.59) rotate(140)" fill="none" stroke="#3e3e3e" stroke-width="2"/>
     <g id="Ellisse_2" data-name="Ellisse 2" transform="translate(423 -898)" fill="none" stroke="#c9c9c9" stroke-width="2" opacity="0.5">
       <circle cx="537" cy="537" r="537" stroke="none"/>
       <circle cx="537" cy="537" r="536" fill="none"/>
@@ -67,7 +66,5 @@
         <path id="Tracciato_24" data-name="Tracciato 24" d="M16.095,47.622c.068-4.182.081-8.361-.008-12.545v0c16.292-1.55,12.592-23.594,8.6-34.54A.59.59,0,0,0,24.038,0a197.9,197.9,0,0,1-19.8.08.645.645,0,0,0-.1.016.646.646,0,0,0-.185.031l-.012,0A.572.572,0,0,0,3.531.6C1.98,8.244-1.106,17.034.891,24.881A13.685,13.685,0,0,0,12.053,34.959a.617.617,0,0,0-.022.118c.09,4.213.076,8.42.007,12.631-2.249.028-12.576.005-12.016,4.185.44,3.278,9.332,3.259,11.577,3.383a48.487,48.487,0,0,0,10.653-.623c1.422-.237,5.372-.912,5.837-2.73,1.038-4.059-9.489-4.263-11.994-4.3M4.767,1.5c6.252.23,12.51.291,18.757-.073a58.582,58.582,0,0,1,3.1,14.256.744.744,0,0,0-.231.057c-5.14,2.42-9.148,1.945-14.5.886a20.664,20.664,0,0,0-10.024.654c.367-5.32,1.821-10.588,2.9-15.78M1.788,20.96c-.031-.734-.023-1.467,0-2.2A20.35,20.35,0,0,1,9.56,17.669c2.254.192,4.4.985,6.629,1.328a18.108,18.108,0,0,0,10.52-1.875c.349,8.428-2.11,16.237-11.667,16.637C7.371,34.08,2.1,28.326,1.788,20.96M23.757,52.933c-3.764,1.136-8.249,1.16-12.158.943-2.489-.137-6.591-.04-8.821-1.36-2.351-1.391.809-2.368,2.293-2.711a32.813,32.813,0,0,1,6.948-.7c-.011.522-.009,1.044-.022,1.567a.7.7,0,0,0,1.4,0q.2-7.781.035-15.553.622.045,1.256.035.164,7.765-.035,15.518a.7.7,0,0,0,1.4,0c.014-.551.012-1.1.023-1.651a33.508,33.508,0,0,1,7.006.73c.584.135,2.339.371,2.716.9,1.108,1.549-1.132,2.005-2.041,2.28" fill="#333" stroke="#3ba4ff" stroke-width="1"/>
       </g>
     </g>
-    <rect id="Rettangolo_6" data-name="Rettangolo 6" width="29" height="20" transform="translate(800 32)" fill="#0f0f0f"/>
-    <rect id="Rettangolo_7" data-name="Rettangolo 7" width="29" height="20" transform="translate(1098 34)" fill="#0f0f0f"/>
   </g>
 </svg>

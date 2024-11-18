@@ -1,18 +1,32 @@
 @import '../variables.scss';
+@import '../grid.scss';
 
 .container {
   display: flex;
   flex-flow: column;
-  margin: auto;
-  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  padding: 0 10px;
+
+  @include md() {
+    width: 50%;
+    padding: 0;
+  }
 }
 
 .option {
   text-align: center;
   color: $primary-color;
-  font-size: 80px;
+  font-size: 40px;
   text-transform: uppercase;
   font-family: 'Agency';
+
+  @include md() {
+    font-size: 80px;
+  }
 }
 
 ng-particles {
@@ -35,6 +49,10 @@ img {
   position: absolute;
   right: 50%;
   pointer-events: none;
+  width: 150%;
+  @include md() {
+    width: auto;
+  }
 }
 .top-img {
   top: 0;
@@ -48,12 +66,17 @@ img {
 
 h1 {
   position: absolute;
-  font-size: 35px;
-  top: 20px;
+  font-size: 20px;
+  top: 10px;
   text-align: center;
   width: 100%;
   text-transform: uppercase;
   font-style: italic;
   color: $primary-color;
   font-family: 'Isocteur';
+
+  @include md() {
+    font-size: 35px;
+    top: 20px;
+  }
 }
